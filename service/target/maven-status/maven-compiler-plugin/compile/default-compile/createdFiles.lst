@@ -1,0 +1,3 @@
+com\example\service\UserService.class
+com\example\AppRunner.class
+com\example\dto\UserDto.class
